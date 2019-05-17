@@ -9,6 +9,9 @@
   },
   "author": "evillt <ijoec123@gmail.com> (https://evila.me)",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {},
   "dependencies": {},
   "devDependencies": {
